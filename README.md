@@ -1,7 +1,7 @@
 # Youtube-Scrapping using Youtube Data api 
 
 This is a simple python project to scrape youtube data using youtube api. I'll try my level best to make it more interactive and add more features like storing 
-it in mongoDB and Visualize it through streamlit.
+it in mongoDB and Visualize it through streamlit on my upcoming projects.
 
 Using YouTube API, we extract the data and then load this data into a Python Pandas DataFrame and then analyze this data.
 Finally, we build simple visualization from this data using the Python Seaborn library.
